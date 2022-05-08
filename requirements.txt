@@ -1,0 +1,10 @@
+python-dateutil
+pandas
+numpy
+seaborn
+IPython
+collections
+sklearn
+random
+hyperopt
+traceback
