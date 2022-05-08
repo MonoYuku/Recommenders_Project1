@@ -16,7 +16,7 @@ You need:
 * Python 3.7.9 or higher (in fact i used Python 3.9, and i, nomen omen, recommend it)
 * Istall all requirements from requirements.txt
 
-#####Installing requirements
+######Installing requirements
 * With using Pip
 ```
 pip install -r requirements.txt
