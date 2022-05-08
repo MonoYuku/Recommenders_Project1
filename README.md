@@ -8,7 +8,8 @@
 
 ## Project description
 The goal of the project was to achieve the best HR@10 score of recommender in the final evaluation.
-
+I've got no idea why this README doesn't look like i would like. It's almost 11pm,
+I don't want to spend more time on this, so please be understanding.
 
 
 
