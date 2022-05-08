@@ -32,13 +32,13 @@ conda install --file requirements.txt
 HTML versions of Jupyter Notebooks are available in html directory
 
 ##Results
-*Linear results:
+-Linear results:
 ![Linear results](./readme/linear.png)
 
-*Random forest results:
+-Random forest results:
 ![Random forest results](./readme/randomforest.png)
 
-*XGBoost results:
+-XGBoost results:
 ![XGBoost results](./readme/xgboost.png)
 
 *Final results:
