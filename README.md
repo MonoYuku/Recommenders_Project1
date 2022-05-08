@@ -1,8 +1,9 @@
 # Recommenders_Project1
 ## Table of contents
 * [Project description](#project-description)
-* [Preparing the project](#Preparing the project)
-* [HTML files](#HTML files)
+* [Preparing the project](#Preparing-the-project)
+* [Installing requirements](#Installing-requirements)
+* [HTML files](#HTML-files)
 * [Results](#Results)
 
 ## Project description
@@ -16,7 +17,7 @@ You need:
 * Python 3.7.9 or higher (in fact i used Python 3.9, and i, nomen omen, recommend it)
 * Istall all requirements from requirements.txt
 
-######Installing requirements
+##Installing requirements
 * With using Pip
 ```
 pip install -r requirements.txt
