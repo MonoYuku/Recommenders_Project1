@@ -47,7 +47,7 @@ HTML versions of Jupyter Notebooks are available in html directory
 *Random forest results:
 <kbd><img src="./readme/randomforest.png" alt="Random forest results"></kbd>
 
--XGBoost results:
+*XGBoost results:
 <kbd><img src="./readme/xgboost.png" alt="XGBoost results"></kbd>
 
 *Final results:
